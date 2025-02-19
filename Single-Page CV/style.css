@@ -1,0 +1,31 @@
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-image: linear-gradient(to top, #161B33, #262D54 ,#2C3463) ;
+    padding: 0px 40px;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+h2 {
+    font-size: 20px;
+    color: #7EB09B;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p {
+    font-size: 13px;
+    background-color: #474973;
+    padding: 10px 10px;
+    border-radius: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
